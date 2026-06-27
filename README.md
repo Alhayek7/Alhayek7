@@ -18,6 +18,16 @@
   <img src="https://komarev.com/ghpvc/?username=Alhayek7&style=for-the-badge&color=2ea043" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" />
+</p>
+
+---
+
+### 💼 Open to Work
+
+I'm actively looking for opportunities as an **AI Engineer / Mobile & ML Developer**, especially roles involving applied machine learning, GenAI integrations, or offline-first mobile products. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ahmedalhayek), [Email](mailto:Alhayekahmed045@gmail.com), or [WhatsApp](https://wa.me/970597967157).
+
 ---
 
 ### 🧠 About Me
@@ -91,6 +101,19 @@ University capstone mobile app helping students build professional & social skil
 </td>
 <td width="50%">
 
+**🧘 [Mental Load](https://github.com/Alhayek7/mental-load)**
+AI-powered daily check-in assistant for detecting cognitive overload.
+- 🧠 Smart daily check-ins to track mental load
+- 🤖 AI-driven overload detection
+- 📱 Built with Flutter
+
+`Flutter` `Dart` `AI`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 **🏆 Hackathon Wins**
 - 🥇 **Binayan Hackathon 2026** — 1st Place, Team Lead
 - 🚀 **SalamHack 2026** — Top placement, Project Lead & Pitcher
@@ -100,6 +123,8 @@ Built solutions under real-world pressure, leading 3-member technical teams from
 </td>
 </tr>
 </table>
+
+> 📦 17 public repositories · 🔥 178 contributions in the last year
 
 ---
 
