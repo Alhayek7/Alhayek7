@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A472A&height=220&section=header&text=Ahmed%20Alhayek&fontSize=55&fontColor=2EA043&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Science%20%7C%20Mobile%20%26%20ML%20Developer&descAlignY=58&descSize=18&descColor=C9D1D9" width="100%"/>
+<div align="center">
+  <!-- البانر مع الاسم فقط (يعمل دائماً) -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A472A&height=220&section=header&text=Ahmed%20Alhayek&fontSize=55&fontColor=2EA043&animation=fadeIn" 
+    width="100%" 
+    alt="Ahmed Alhayek Banner"
+  />
+
+  <!-- النص الفرعي (الوصف) منفصل وبسيط -->
+  <p align="center" style="margin-top: -10px; font-size: 18px; color: #C9D1D9;">
+    AI Engineer | Data Science | Mobile & ML Developer
+  </p>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Offline-First+Apps+%F0%9F%9A%80;Flutter+%2B+FastAPI+%2B+XGBoost+%2B+Gemini+AI;%F0%9F%A5%87+1st+Place+%40+Binayan+Hackathon+2026;%F0%9F%8E%96%EF%B8%8F+Project+Lead+%40+SalamHack+2026" alt="Typing SVG" />
 
