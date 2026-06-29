@@ -1,15 +1,15 @@
 <div align="center">
 
 <div align="center">
-  <!-- البانر مع الاسم فقط (يعمل دائماً) -->
+  <!-- البانر مع خلفية بيضاء واسم أبيض -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A472A&height=220&section=header&text=Ahmed%20Alhayek&fontSize=55&fontColor=2EA043&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:1A472A&height=220&section=header&text=Ahmed%20Alhayek&fontSize=55&fontColor=FFFFFF&animation=fadeIn" 
     width="100%" 
     alt="Ahmed Alhayek Banner"
   />
 
-  <!-- النص الفرعي (الوصف) منفصل وبسيط -->
-  <p align="center" style="margin-top: -10px; font-size: 18px; color: #C9D1D9;">
+  <!-- النص الفرعي (الوصف) مع خط رسمي -->
+  <p align="center" style="margin-top: -10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #333333; letter-spacing: 1px;">
     AI Engineer | Data Science | Mobile & ML Developer
   </p>
 </div>
